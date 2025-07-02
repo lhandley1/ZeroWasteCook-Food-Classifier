@@ -1,15 +1,15 @@
-# ZeroWasteCook 🍳 - Food Image Classification with InceptionV3
+# ***ZeroWasteCook*** - Food Image Classification with InceptionV3 🍳
 <div align="center">
   <img alt="ZeroWasteCook Logo" src="https://github.com/lhandley1/assets/blob/main/DarkZeroWasteCookLogo.png" width="150" />
 </div>
+<br/>
 
-## Description
-
+## Overview
 This project demonstrates the process of fine-tuning the InceptionV3 deep learning model for food image classification using a custom dataset. The primary objective is to develop a model capable of accurately identifying various food ingredients from images. This capability is a fundamental functionality of the **ZeroWasteCook** application, which aims to help users reduce food waste by identifying ingredients they have and suggesting recipes. InceptionV3, a state-of-the-art convolutional neural network pre-trained on the massive ImageNet dataset, requires input images to be preprocessed to a standard size of 299x299 pixels.
 
 ## Dataset 🍎🥦🥕
 
-The dataset used in this project is the "Food Classification Dataset" provided by Bjorn on Kaggle. It contains a collection of images featuring various food items. We will leverage this data to train our model to accurately classify different food ingredients.
+The dataset used in this project is the "Food Classification Dataset" provided by **Bjorn** on Kaggle. It contains a collection of images featuring various food items. We will leverage this data to train our model to accurately classify different food ingredients.
 
 **Dataset Link:** https://www.kaggle.com/datasets/bjoernjostein/food-classification
 
